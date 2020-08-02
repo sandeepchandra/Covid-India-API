@@ -1,4 +1,8 @@
 {
+    "scripts": {
+        "start": "node scraping.js"
+    },
+    "main": "scraping.js",
     "devDependencies": {
         "puppeteer": "^5.2.0"
     },
